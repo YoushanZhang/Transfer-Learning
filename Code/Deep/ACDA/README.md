@@ -1,5 +1,3 @@
-This directory contains the code for paper Adversarial Continuous Learning on Unsupervised Domain Adaptation, which is accepted by In 25th International Conference on Pattern Recognition Workshops (ICPRW).
-
 
 # Adversarial Continuous Learning on Unsupervised Domain Adaptation
 <!--  <hr width=”200″ align=”left”>  -->

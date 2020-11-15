@@ -11,7 +11,7 @@ If you have any questions, please email to yoz217@lehigh.edu
 If you find it is helpful, please cite it as:
 
 `
-Zhang, Youshan, and Brian D. Davison. (2020). Impact of ImageNet Model Selection on Domain Adaptation. In 2020 IEEE Winter Applications of Computer Vision Workshops (WACVW).
+Zhang, Youshan, and Brian D. Davison. (2020). Impact of ImageNet Model Selection on Domain Adaptation. In Proceedings of the IEEE Winter Conference on Applications of Computer Vision Workshops (pp. 173-182).
 `
 
 `
@@ -21,10 +21,11 @@ Zhang, Y., & Davison, B. D. (2019). Modified distribution alignment for domain a
 Or in bibtex style:
 
 ```
-@article{zhang2020impact,
+@inproceedings{zhang2020impact,
   title={Impact of ImageNet Model Selection on Domain Adaptation},
   author={Zhang, Youshan and Davison, Brian D},
-  booktitle={In 2020 IEEE Winter Applications of Computer Vision Workshops (WACVW)},
+  booktitle={Proceedings of the IEEE Winter Conference on Applications of Computer Vision Workshops},
+  pages={173--182},
   year={2020}
 }
 @article{zhang2019modified,

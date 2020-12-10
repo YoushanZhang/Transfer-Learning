@@ -17,8 +17,8 @@ Zhang, Youshan, and Brian D. Davison. (2020). Adversarial Continuous Learning on
 Or in bibtex style:
 
 ```
-@article{zhang2020impact,
-  title={Impact of ImageNet Model Selection on Domain Adaptation},
+@article{zhang2020adversarial,
+  title={Adversarial Continuous Learning on Unsupervised Domain Adaptation},
   author={Zhang, Youshan and Davison, Brian D},
   booktitle={In 25th International Conference on Pattern Recognition Workshops (ICPRW)},
   year={2020}

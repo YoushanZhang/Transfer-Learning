@@ -1,7 +1,7 @@
 
 # Adversarial Continuous Learning on Unsupervised Domain Adaptation
 <!--  <hr width=”200″ align=”left”>  -->
-This directory contains the code for paper [Efficient Pre-trained Features and Recurrent Pseudo-Labeling inUnsupervised Domain Adaptation](http://openaccess.thecvf.com/content_WACVW_2020/papers/w3/Zhang_Impact_of_ImageNet_Model_Selection_on_Domain_AdW), which is accepted by In 2020 CVPR Workshops (CVPRW).
+This directory contains the code for paper [Efficient Pre-trained Features and Recurrent Pseudo-Labeling inUnsupervised Domain Adaptation](http://openaccess.thecvf.com/), which is accepted by In 2021 CVPR Workshops (CVPRW).
 
 
 If you have any questions, please email to yoz217@lehigh.edu
@@ -17,7 +17,7 @@ Zhang, Youshan, and Brian D. Davison. (2021). Efficient Pre-trained Features and
 Or in bibtex style:
 
 ```
-@article{zhang2020adversarial,
+@article{zhang2021efficient,
   title={Efficient Pre-trained Features and Recurrent Pseudo-Labeling inUnsupervised Domain Adaptation},
   author={Zhang, Youshan and Davison, Brian D},
   booktitle={In IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},

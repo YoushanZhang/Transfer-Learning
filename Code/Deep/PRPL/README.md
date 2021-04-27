@@ -25,3 +25,8 @@ Or in bibtex style:
 }
 
 ```
+
+
+### To run the code
+1. Please first download the extracted features [here](https://drive.google.com/drive/folders/1kQv9Ot54sS2tpRH5VRK6dW8E0oWUDddL?usp=sharing)
+2. Run PRPL.ipynb

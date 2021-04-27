@@ -1,5 +1,5 @@
 
-# Adversarial Continuous Learning on Unsupervised Domain Adaptation
+# Efficient Pre-trained Features and Recurrent Pseudo-Labeling inUnsupervised Domain Adaptation
 <!--  <hr width=”200″ align=”left”>  -->
 This directory contains the code for paper [Efficient Pre-trained Features and Recurrent Pseudo-Labeling inUnsupervised Domain Adaptation](https://www.researchgate.net/publication/351118254_Efficient_Pre-trained_Features_and_Recurrent_Pseudo-Labeling_in_Unsupervised_Domain_Adaptation), which is accepted by in 2021 CVPR Workshops (CVPRW).
 

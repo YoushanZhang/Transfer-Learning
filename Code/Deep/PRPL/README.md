@@ -37,3 +37,14 @@ Or in bibtex style:
 2. Download raw images for [Office + Caltech-10 , Office-31 and Office-Home](https://drive.google.com/drive/folders/1zGNzQVenY54DJTpZ3SMBthde__XxSDbN?usp=sharing)
 3. Run Python_feture_extraction.ipynb using TensorFlow under each folder.
 
+
+## Results
+
+<img src="./Figures/OC.png" width="100%">
+
+<p align="center">
+  <img src="./Figures/O31.png" width="50%">
+</p>
+
+<img src="./Figures/OH.png" width="100%">
+

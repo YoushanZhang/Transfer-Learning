@@ -34,6 +34,6 @@ Or in bibtex style:
 
 ### For the feature extraction
 1. Install [EfficientNet](https://github.com/qubvel/efficientnet)
-2. Download raw images for [ffice + Caltech-10 , Office-31 and Office-Home](https://drive.google.com/drive/folders/1zGNzQVenY54DJTpZ3SMBthde__XxSDbN?usp=sharing)
+2. Download raw images for [Office + Caltech-10 , Office-31 and Office-Home](https://drive.google.com/drive/folders/1zGNzQVenY54DJTpZ3SMBthde__XxSDbN?usp=sharing)
 3. Run Python_feture_extraction.ipynb using TensorFlow under each folder.
 

@@ -40,7 +40,7 @@ Or in bibtex style:
 
 ## Results
 
-<img src="./Figures/OC.png" width="100%">
+<img src="./Figures/OC10.png" width="100%">
 
 <p align="center">
   <img src="./Figures/O31.png" width="50%">

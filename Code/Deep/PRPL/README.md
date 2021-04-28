@@ -29,4 +29,11 @@ Or in bibtex style:
 
 ### To run the code
 1. Please first download the extracted features [here](https://drive.google.com/drive/folders/1kQv9Ot54sS2tpRH5VRK6dW8E0oWUDddL?usp=sharing) and put them under the Office31 folder;
-2. Run PRPL.ipynb.
+2. Run PRPL.ipynb using Pytorch.
+
+
+### For the feature extraction
+1. Install [EfficientNet](https://github.com/qubvel/efficientnet)
+2. Download raw images for [ffice + Caltech-10 , Office-31 and Office-Home](https://drive.google.com/drive/folders/1zGNzQVenY54DJTpZ3SMBthde__XxSDbN?usp=sharing)
+3. Run Python_feture_extraction.ipynb using TensorFlow under each folder.
+

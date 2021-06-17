@@ -20,7 +20,7 @@ Or in bibtex style:
 @inproceedings{zhang2021efficient,
   title={Efficient Pre-trained Features and Recurrent Pseudo-Labeling in Unsupervised Domain Adaptation},
   author={Zhang, Youshan and Davison, Brian D},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
   pages={2719--2728},
   year={2021}
 
